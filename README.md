@@ -1,2 +1,2 @@
-#AaulaDio-GitHuB
+#AulaDio-GitHuB
 Desafio de projeto DIO sobre Git/GitHub
